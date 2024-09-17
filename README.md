@@ -10,12 +10,15 @@
 
 ## Open Repository For Students to Contribute Algorithms and Data Structures in different Languages
 
-## This Repository is meant for everyone to create code and learn to contribute to open source
+
+
+## This Repository is meant for everyone to create code and learn to contribute to open source.
 
 
 
-Use this repo for contributing in open source.
-Start solving issues and raise the pull requests and even you can create your own issues.
+
+Use this repo to contribute to open source.
+Start resolving issues and raise the pull requests and even you can create your own issues.
 If you want to contribute to a project, the simplest way is to:
 
 Find a ISSUE you want to contribute to ->> Fork it
@@ -42,6 +45,7 @@ The implementations/codes which are added/merged in CPP-:
 <img src="https://github.com/akshitagit/CPP/blob/master/trend.jpeg" width="230px">
 
 
+### Contributors :pray: :dizzy:
+![105](https://contributors-img.web.app/image?repo=akshitagit/CPP)
 
 Happy coding!
-
